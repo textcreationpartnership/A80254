@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Companions of good consciences: or an appeal of moderation, justice, and equity, or righteousnesse, peace and love (unfolded in the law of God and nature) to the consciencs [sic] of all, both high and low, rich and poor, of all societies and opinions, amoung all nations. With their mournful lamentation over the unrighteousnesses of men. Wherein men may as in a looking-glasse behold themselves, whether they bear the image of God in their power, places, judgments and callings; or the image of the Divel; for his servants ye are whom ye obey; whether of righteousness and obedience &amp;c. to salvation: or of injustice, pride, envie and deceit, &amp;c. to damnation. Herein the God of justice hath said, the mouth of the Lord hath spoken it, every one shall be recompenced according to his deeds done in the flesh, whether good or evil. Where then, Lord, shall the unjust, the oppressor, the proud, the covetous, the envious, and all manner of unrighteousness appear? Take it effectually to thy heart.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80254</idno>
+            <idno type="STC">Wing C5582</idno>
+            <idno type="STC">Thomason E710_17</idno>
+            <idno type="STC">ESTC R207193</idno>
+            <idno type="EEBO-CITATION">99866262</idno>
+            <idno type="PROQUEST">99866262</idno>
+            <idno type="VID">118529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118529)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E710[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Companions of good consciences: or an appeal of moderation, justice, and equity, or righteousnesse, peace and love (unfolded in the law of God and nature) to the consciencs [sic] of all, both high and low, rich and poor, of all societies and opinions, amoung all nations. With their mournful lamentation over the unrighteousnesses of men. Wherein men may as in a looking-glasse behold themselves, whether they bear the image of God in their power, places, judgments and callings; or the image of the Divel; for his servants ye are whom ye obey; whether of righteousness and obedience &amp;c. to salvation: or of injustice, pride, envie and deceit, &amp;c. to damnation. Herein the God of justice hath said, the mouth of the Lord hath spoken it, every one shall be recompenced according to his deeds done in the flesh, whether good or evil. Where then, Lord, shall the unjust, the oppressor, the proud, the covetous, the envious, and all manner of unrighteousness appear? Take it effectually to thy heart.</title>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "August: 13th:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion --  Early works to 1800.</term>
+               <term>Conscience --  Early works to 1800.</term>
+               <term>Conscience, Examination --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118529:1" rendition="simple:additions"/>
+            <p>THE COMPANIONS OF <hi>GOOD</hi> CONSCIENCES: OR AN Appeal of MODERATION, JUSTICE, and EQUITY, OF RIGHTEOUSNESSE, PEACE and LOVE (Unfolded in the Law of God and Nature) To the Conſciences of all, both High and Low, Rich and Poor, of all Societies and Opinions, among all Nations.</p>
+            <p>With their <hi>Mournful Lamention over the unrighteouſneſſes of men.</hi>
+            </p>
+            <p>WHEREIN <hi>Men may as in a looking-glaſſe behold themſelves, whether they bear the Image of God in their Power, Places, Judg<g ref="char:EOLhyphen"/>ments and Callings; or the image of the Divel: For</hi> his ſervants ye are whom ye obey; <hi>whether of righteouſneſs and obedience &amp;c. to ſalvation: or of injuſtice, pride, envie and deceit, &amp;c. to damnation.</hi>
+            </p>
+            <p>
+               <hi>Herein the God of Juſtice hath ſaid, the mouth of the Lord hath ſpoken it,</hi> Every one ſhall be recompenced according to his deeds done in the fleſh, whether good or evil.</p>
+            <p>
+               <hi>Where then, Lord ſhall their Vnjuſt, the Oppreſſor, the Proud, the Covetous, the Envious, and all manner of Vnrighte<g ref="char:EOLhyphen"/>ouſneſs appear?</hi> Take it effectually to thy heart.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:118529:2"/>
+            <pb n="3" facs="tcp:118529:2"/>
+            <head>May it not be ſaid of a Truth, Whoſoever deſpiſeth the leaſt of theſe, and acteth and teacheth men otherwiſe;<note place="margin">Note.</note> it were better that a milſtone were hanged about his neck and that he were thrown into the midſt of the Sea.</head>
+            <p>Wherefore O ye Companions of good Conſciences conſider, and ye Meſſen<g ref="char:EOLhyphen"/>gers of glad Tidings, to Men of good will, Go ye into the Country, Cities, Towns, Villages, and Habitations of this Land; appear ye, if poſſible, in the hearts and hands of the mighty and powerfull ones, in the hearts and heads of the Judges, Officers, and Rulers thereof; in the hearts and lives of Superiours and Inferiours, of the rich and poor; appear ye in and among all people, of all ſorts, knowledges, and o<g ref="char:EOLhyphen"/>pinions; declare and publiſh the everlaſting Goſpel, in<g ref="char:EOLhyphen"/>folded in your bleſſed and upright nature of Righte<g ref="char:EOLhyphen"/>ouſneſs, Peace, and Love, recorded and teſtified in the ſa<g ref="char:EOLhyphen"/>cred Scriptures of our <hi>Lord Chriſt,</hi> the Prophets and A<g ref="char:EOLhyphen"/>poſtles; whoſoever heareth, and obeyeth, that ſoul ſhall live, and his life ſhall be precious in the ſight of the <hi>Lord;</hi> but whoſoever diſobeyeth, reſiſteth, regardeth not the ſame, or hardneth his heart, his name ſhall be root<g ref="char:EOLhyphen"/>ed out of the land of the living; for the Creation of God doth mourn over every mans unrighteouſneſs, and the earth doth grone being burthened with the diſobedi<g ref="char:EOLhyphen"/>ent <hi>man,</hi> whoſe body is a habitation for foul, noysome, and unclean ſpirits; therefore verily, verily, it will be ea<g ref="char:EOLhyphen"/>ſier for <hi>Sodom</hi> and <hi>Gomorrah</hi> in the day of Gods juſt judg<g ref="char:EOLhyphen"/>ment, then for thee O <hi>England,</hi> and thy off-ſpring: If thou reſiſt, neglect, deſpiſe, or refuſe the profered grace of the moſt high, once ſpoken from heaven but now made
+<pb n="4" facs="tcp:118529:3"/>manifeſt before thy heart and conſcience, the life of <hi>Righteouſneſs, Peace</hi> and <hi>Love.</hi> Heaven and earth ſhall paſs away, but not one Iota or tittle of thy pure Word, and upright Lawes, O LORD GOD everlaſting, ſhall not paſs away unfulfilled. Be it O LORD from thy ſer<g ref="char:EOLhyphen"/>vants and handmaids according to thy Word and Will.</p>
+            <p>Saith the Scripture, the Divels believe and tremble; where then LORD, ſhall that man appear? or in what monſtrous ſhape ſhall he ſtand in the preſence of ever<g ref="char:EOLhyphen"/>laſting burnings, whoſe life is not herewith reformed, or whoſe conſcience is not once moved, or pricked at the Doctrine of thy Righteouſneſs. Let the earth which beareth him, and the air wherein he doth breath, bear witneſs againſt him before the ſeat of thy Judgment.</p>
+         </div>
+         <div type="part">
+            <head>To him that hath power among men to plead, and to do right, or to him that is ordained a Ruler and a Judg, for the pu<g ref="char:EOLhyphen"/>niſhment of Evil Doers, and the praiſe of them that do Well.</head>
+            <head type="sub">
+               <hi>Behold the words and counſels of the Lord, by the mouth of his Prophet</hi> Samuel, <hi>2</hi> Sam. <hi>23.3. &amp;c,</hi> The God of Iſrael ſaid, the God of Iſrael ſpake to me, He that ruleth o<g ref="char:EOLhyphen"/>ver men muſt be juſt, ruling in the fear of God.</head>
+            <p>O Man, honoured and in power among the ſons of men, raiſed up out of the duſt of the earth, by the power of the Almighty, to be a living Creature, that you might ſerve your Creator in this your generation, not in Hyprocriſie but in Righteouſneſs and true Ho<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>
+               <pb n="5" facs="tcp:118529:3"/>
+For thy ſake (O mortal man) this hand-writing is or<g ref="char:EOLhyphen"/>dained and publiſhed to thy view, if poſſible to with<g ref="char:EOLhyphen"/>draw your mind with the cords of Gods unſpotted <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> from the Acts of all Injuſtice, and from the Guilt of Innocent blood; or if it takes not places in thy ſoul, that then in the day of Inquiſition, for works of Unrighteouſneſs, and for ſhedding innocent blood, you may appear before the Pure and Juſt Majeſty of God, Angels, and holy Saints, without excuſe. Reſiſt not, reſiſt not the voice of the Spirit of the Moſt High, which forewarneth all people and Nations of the earth of their duty, before the judgments and wrath intended be executed againſt them; that they might obey, ſaying, <hi>To day</hi> (even in this very moment) <hi>if you will hear his voice, harden not your hearts,</hi> as many in power have done, who have tempted the Lord of Life and Glory, by Oppreſſion, Partiality, Violence, Cruelty, Blood<g ref="char:EOLhyphen"/>ſhed, &amp;c. on whom the Great and Righteous God hath recompenced, as his enemies, Indignation, Blood and Deſtruction; and hath given to many of them to taſte the bitter cup which they in their unrighteouſneſs have filled for others, whereby many of them are, and remain unto this day a ſcorn, a contempt, and a deriſion upon the face of Gods earth.</p>
+            <p>Wherefore (O man, uncloath thine Immortal ſoul, from the corrupted Garments of all falſe Righteouſneſs, and appear in the Righteouſneſs, or Righteouſneſs Life of JESUS CHRIST, in the place of thy Judicature, that the Truth and the Law of the LORD may proceed out of thy mouth, hand in hand (and not the Law of men Luſts, in true and upright Judgment. Diſrobe thy ſelf from Envy, Malice, Pride, baſe Ends, and Cove<g ref="char:EOLhyphen"/>touſneſs, whereby, in the Seat of Judgment, the good Law of Juſtice is perverted, and the true, plain, ſimple dealing and upright meaning therein circumvented, and no further proſecuted, then to ſerve the baſe ſelf-Intereſt and corrupted wills of high and lofty ſpirited men. Li<g ref="char:EOLhyphen"/>ſten then (O man) with a right Chriſtian mind to the
+<pb n="6" facs="tcp:118529:4"/>ſecret voyce of the ſacred Spirit of the moſt High, and let it enter and pierce through and through thy moſt in<g ref="char:EOLhyphen"/>ward and hidden ſecret part, untill it hath purified the living ſpark of thy immortall ſoul from all injuſtice and blood thirſtineſs,<note place="margin">Note</note> 
+               <hi>which the water that waſhed the hands of Pilate could not do;</hi> Remember then that the protection of the innocent from violence and oppreſſi<g ref="char:EOLhyphen"/>on,<note place="margin">Note.</note> the diſtribution and miniſtration of Juſtice, to Su<g ref="char:EOLhyphen"/>periours and Inferiours, ought in the ſight of heaven to be executed without reſpect of perſons; Elſe (O man) re<g ref="char:EOLhyphen"/>member, thou art an unrighteous Judge in the ſeat of thy judgment,<note place="margin">Note.</note> which thou canſt not hide from the through ſearching, all-ſeeing eye of God; therefore will be that formed thee and me, even the preſerver of men, whoſe eyes are over, and above all his works, beholding both the evill and the good, behold ſuch men with the eye of wrath, who in judgment reſpect the perſon of the migh<g ref="char:EOLhyphen"/>ty and powerful,<note place="margin">Note.</note> thereby doing wrong.</p>
+            <p>Verily therefore, that man, whether private perſon or publike Judge, that ſhall indeavour to ſubvert a mans right, or ſhall act to the deſtroying of a mans life or livelihood, upon the ground of any private Intereſt, grudge, malice, or diſcontent; or through fear or affe<g ref="char:EOLhyphen"/>ction, ſhall act in or condeſcend to any ſuch Act, not being clearly and manifeſtly according to the Law of Righteouſneſs, publiſhed in the everlaſting Goſpel of truth, ſuch men are declared to be no other then theeves and murtherers, who having not the Law of Equity in the fear of the Lord before their eyes,<note place="margin">Hear &amp; trem<g ref="char:EOLhyphen"/>ble, yee unjuſt Judges of the earth, leſt in e<g ref="char:EOLhyphen"/>ternitie you re<g ref="char:EOLhyphen"/>main guiltie of periſhing from the pre<g ref="char:EOLhyphen"/>ſence of his face.</note> ſhutting the coun<g ref="char:EOLhyphen"/>ſel and word of Eternal life out of their hearts, have al<g ref="char:EOLhyphen"/>ſo no Inheritance in the righteous Kingdom of God, nor part nor portion with <hi>Chriſt,</hi> the Lord, for no unrigh<g ref="char:EOLhyphen"/>teouſneſs, nor unrighteous perſon ſhall enter thereinto, according to the Scripture; againſt whom the Spirit of the Lord doth ſignifie, that the ways, Acts and Actions of all ſuch unjuſt men, are an abomination in his ſight, and that bloud ſhall be the portion of blood thirſty men, For <hi>Vengeance is mine, and I will repay, ſaith the Lord.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:118529:4"/>
+Wherefore (O Mortal man) if CHRIST be thy LORD, embrace his Righteouſneſs, be not pufft up with an imagi<g ref="char:EOLhyphen"/>nation of thine own Wiſdom, Prudence, Judgment,<note place="margin">Note. The Wiſdom of men to cir<g ref="char:EOLhyphen"/>cumvent and encreaſe a man in life or liveli<g ref="char:EOLhyphen"/>hood, is it w<hi rend="sup">th</hi> is enmity a<g ref="char:EOLhyphen"/>gainſt God, &amp; againſt the Love and ſim<g ref="char:EOLhyphen"/>plicity of CHRIST.</note> or Un<g ref="char:EOLhyphen"/>derſtanding; but know this, that you are in the hands of the moſt high God, even as clay in the hands of the Potter; and if the hand of the LORD be but once ſtretched forth a<g ref="char:EOLhyphen"/>gainſt you, or his wrath never ſo little kindled, may not your condition in a moment be as <hi>Nebuchadnezzars;</hi> or may not that viſible form of yours, which hath but a ſhort breathing in the common air, be in the twinkling of an eye diſſolved into duſt, and you become a worm, and no more man? Let then foreſightfulneſs and Moderation be the forerunner of your Judgment,<note place="margin">Note.</note> or elſe your Judgment will end in Injuſtice; therefore let heaven and earth bear Re<g ref="char:EOLhyphen"/>cord and Witneſs, before the Righteous God, and juſt Judge of all his earth; that the proceſs of Chriſtian Judg<g ref="char:EOLhyphen"/>ment, in the true Evangelical adminiſtration of the Law of Right, deſcribed by the LORD CHRIST, is not obſcured from your eyes. If therefore you atract to your ſoul, the guilt of innocent bloud, by accuſing or condemning unjuſtly, then will the bloud of Innocence be upon you and your Poſterity.<note place="margin">Note.</note>
+            </p>
+            <p>
+               <note place="margin">Curſed are they, who ſee<g ref="char:EOLhyphen"/>ing, will not ſee; and hear<g ref="char:EOLhyphen"/>ing, will not hear; but will blind the eyes of conſcience, if and ſtop its ears from the dictates there<g ref="char:EOLhyphen"/>of, that Judg<g ref="char:EOLhyphen"/>ment may be perverted to their own wils, and the holy Law of the Lord lye trod under foot.</note>Therefore (O man) ſet not thy Wit, thy Wiſdom, thy Subtilty, thy will, nor thy Power, thy Underſtanding, nor thy Judgment in oppoſition to the reaſonings of a good conſcience, whereby the hearts of men become hardned, and their eyes blinded from the true light of the Chriſtian life; but let thy conſcience free to the voice and dictates of Gods Spirit; which will ſhew unto thee, O man, if thou wilt hearken thereunto, and obey it, the thing which is right and good, acceptable and well pleaſing in the ſight of the Lord, which thou ſhalt find comprehended in that golden Rule of <hi>Righteouſneſs,</hi> by the upright Judg of <hi>Truth</hi> and <hi>Equity,</hi> even the perfect Lawgiver, the LORD of Life, for a Statute and Law to all Nations; how much more to be obſerved by thoſe who call themſelves Chriſtians! That all men in the fear of the LORD ſhould do to other men as they would that men ſhould do to them, and that they
+<pb n="8" facs="tcp:118529:5"/>ſhould ſo judge of other men as they themſelves would be judged; for ſaith the Juſt One, <hi>with the ſame meaſure ye mete to others,<note place="margin">Note.</note> it ſhall be meaſured to you again;</hi> verily the mouth of the Lord that created thee hath ſpoken it, who, beleeve it, cannot lye; this therefore is the way, walk therein, ſo may thy ſeed, and childrens children after thee, <hi>O Man,</hi> have a right to the promiſed bleſſing, made to the righteous, through all the generations of the earth, and thy ſoul ſhall be eſtabliſhed in Peace, at thy appear<g ref="char:EOLhyphen"/>ance before the judge of all fleſh, to give an account of thy Stewardſhip.</p>
+            <p>Remember that the wages of all manner of unrighteouſ<g ref="char:EOLhyphen"/>neſs is death, and that the reward of envy, oppreſſion, vio<g ref="char:EOLhyphen"/>lence,<note place="margin">
+                  <hi>Note.</hi> He whoſe Conſcience blinded per<g ref="char:EOLhyphen"/>verted or hard<g ref="char:EOLhyphen"/>ned, it is be<g ref="char:EOLhyphen"/>cauſe of his luſts, in whom the God of this would, the Prince of un<g ref="char:EOLhyphen"/>righteouſneſs and worker of revenge in him hath pow<g ref="char:EOLhyphen"/>er and domi<g ref="char:EOLhyphen"/>nion.</note> pride, bloud-thirſtineſs, &amp;c. is attended with the ſe<g ref="char:EOLhyphen"/>vere wrath of a juſt and righteous God, either in the hard<g ref="char:EOLhyphen"/>ned, or in the awakened Conſciences of men, before whoſe preſence all the Powers, Princes, Rulers, or Nations, are but as a drop in the bucket, or as a duſt in the balance; which wrath of the almighty God every moment hangeth over and about the impious, the unjuſt and unrighteous mans head, where-ever he is, or in whatever he acteth; the ſame devouring wrath of the Almighty, is always ready to exe<g ref="char:EOLhyphen"/>cute the judgment and vengeance written, and declared up<g ref="char:EOLhyphen"/>on and againſt all unrighteouſneſs, and againſt the falſe and hypocritical righteouſneſs, and againſt all which with-hold Gods moſt pure Laws, and everlaſting Truth, mind and will, in unrighteouſneſs: Even ſo, <hi>Come Lord Jeſus, come quickly,</hi> for if thou delayeſt, at thy appearing, <hi>Lord,</hi> ſhalt thou find <hi>Faith</hi> or <hi>Truth, Peace</hi> or <hi>Love, Righ<g ref="char:EOLhyphen"/>teouſneſs</hi> or <hi>Juſtice, Temperance</hi> or <hi>Long-ſuffering, Mercy,</hi> or <hi>Patience</hi> upon the Earth?</p>
+            <closer>
+               <signed>From a Well-wiſher to the Peace and Tranquility of all the generation of mankind, eſpecially to the houſhold of Faith and Love.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Create in Men, O LORD, a new HEART, And renew a right Spirit within them:</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:118529:5"/>
+            <head>To them who are not defiled with a blind deaf, or hardened Conſcience; but that have an Eye to ſee, and an Eare to hear, and an heart to com<g ref="char:EOLhyphen"/>paſsionate and bear each others burthens, ſo fulfilling the Royal Law of Christ.</head>
+            <p>O Ye Men of Good-will, and Moderate minded ones, that are Lovers of Righteouſneſs, Peace, and Love, that are in your ſelves Haters and Deſpi<g ref="char:EOLhyphen"/>ſers of Injuſtice, Arrogancy, Hypocriſie, Envy, De<g ref="char:EOLhyphen"/>ceit, Variance, Bloodſhed, and Covetouſneſs; Take ye up a Lamentation, and ceaſe not, until Righteous bear the Rule in the ſeats of Judgment, and Peace, Mercy and Love obtain a Triumph and Victory in Mens hearts: for who knoweth but that your ſighs and tears may prevail before Heaven, and among men, and ſuddenly turn to your rejoycing, that your gene<g ref="char:EOLhyphen"/>rations to come may reap the fruits of your ſupplica<g ref="char:EOLhyphen"/>tions? and who knoweth but that the bleſſed Age, foretold by the holy Prophets, declared in holy Scrip<g ref="char:EOLhyphen"/>tures, may become fulfilled in our days? Lament therefore, ſaying, LORD, LORD, God everlaſting, How long ſhall the voyce of thy holy Angel be heard in the Heavens, read and teſtified in the ſacred Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="10" facs="tcp:118529:6"/>giving Glory to God on high, proclaiming Peace on the Earth, Good-will towards Men, and yet the joyful ſound thereof not once enter nor pierce into the hearts of the Inhabitants therof to learn righteouſ<g ref="char:EOLhyphen"/>neſs, becauſe the Honor, Lordlineſs, and Pride thereof hath ſtopped their ears; and the deceitfulneſs of riches, Luxury and Malice, which worketh Revenge, hath hardened their hearts, that they will not nor cannot hear, nor underſtand within themſelves to glorifie the moſt high God by and in all their works, nor under<g ref="char:EOLhyphen"/>ſtand they aright within themſelves the publiſhing of the Goſpel of a peaceable Life, which is attended and preſerved by Love, and good will among men. O thou immenſe Power! that by thy unreſiſtible Word gave a Being to all Being, and broughteſt all things into a creaturely form, that haſt called the generations of men out of the duſt, and haſt ordained all things in their kind, to declare thy Wonders, and thy magni<g ref="char:EOLhyphen"/>ficent Power; O thou omnipotent God, and King of Saints, how long ſhall this Earth which thou haſt formed be without thy Government, and the creatures which thou haſt ſet therin to rule, rebel againſt thee, in that they will not ſuffer thee in thy righteous Laws, Statutes &amp; Ordinances to reign over them? How long, LORD, how long, ſhall the beaſt like natured-men arrogate the Name of Chriſtians? or how long ſhall the Name of Chriſtians be imputed unto men, that ☞ trace not the upright paths of Chriſt, that obey not his Commandments, that reject the Law of Love, which is of wonderful and large extent, and herein are become the true Antichriſts? for whoſoever is
+<pb n="11" facs="tcp:118529:6"/>not with thee, is againſt thee. How long, O thou Righteous One, juſt and true in all thy Judgments, ſhall the judgments of duſt and aſhes contradict thy Righteouſneſs, and the preſence of thy Glory in the purity of thy Laws be obſcured upon the Earth through the corrupted luſts of men? How long, O thou Lover of Righteouſneſs among the Creatures, ſhall the juſt Cauſe of the Needy ones, and men of low degree, periſh out of the Earth, and the Power of the Mighty ones deſtroy their right? How long ſhall the rich man be reſpected in Judgment for his riches, and the right of the poor and diſtreſſed not obtained nor conſidered, though purſued with the cries of prayers and tears? Hear, O ye Heavens, and ſend de<g ref="char:EOLhyphen"/>liverance, for the Injuſtice and Wickedneſſes of Men are great upon Earth. O thou holy One of <hi>Iſrael,</hi> how long ſhall the rich ſit in thy Judgment ſeat, becauſe of his Riches? who doubtleſs too too many of them have ☜ heaped up their Treaſure meerly by the ſweat, oppreſ<g ref="char:EOLhyphen"/>ſions and ruines of their fellow-members, and by their ſtudy and ſubtil wits inſnare the Innocent and the Ig<g ref="char:EOLhyphen"/>norant? O when ſhall Injuſtice be removed out of the Judgment ſeat, that the wills of lofty and proud inſulting ſpirits, or of men ambitious of power, may no more be a Law over the lives, liberties and lively<g ref="char:EOLhyphen"/>hoods of them who in the right of Gods Creation are their fellow-members and Brethren? O Lord, when ſhall it once be, that the Judges of this Earth ſhall ceaſe the ſervice of Injuſtice, of Bribery, of Cover<g ref="char:EOLhyphen"/>ouſneſs and Revenge, and of being men-ſervers, or ſerving their luſts, againſt the Equity, Juſtice, and
+<pb n="12" facs="tcp:118529:7"/>Righteouſneſs of God? O when ſhall it once be, that the Judges thereof ſhall ceaſe to judg for hire or re<g ref="char:EOLhyphen"/>ward, or for fear or affection, but out of love to Gods Righteouſneſs? How long, O thou God of long-ſuf<g ref="char:EOLhyphen"/>fering, how long ſhall Juſtice and Equity complain in the Land, and make her Lamentation in the Coun<g ref="char:EOLhyphen"/>try, in the Villages, in the Towns, in the Cities, and ſtreets thereof, that ſhe is bought and ſold, and that no man obtaineth her as his birthright? How long, O ye ſons of Perdition, and Cainiſh minded men, will ye thirſt after the blood and livelyhoods of others, to advance your might and power, not conſidering the reaſon why God hath created you, <hi>viz.</hi> that all men ſhould ſerve one another in the brotherly love? How long Lord (righteous and true) ſhall the black clouds of darkneſs remain over the face of the Earth, exem<g ref="char:EOLhyphen"/>plified in the corrupted minds of men, in and amongſt all Societies, by judging for their own Intereſt and Party, whereby they bear witneſs againſt Gods Truth and Righteouſneſs, with whom there is no reſpect of perſons? whereby it is viſibly manifeſt, that the bleſſed and joyful appearance of the Sun of thy Righ<g ref="char:EOLhyphen"/>teouſneſs, which bringeth healing under his wings for all Nations, is interpoſed and eclipſed; whoſe upright Diſcipline, Laws, Statutes, and Ordinances, O <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhall give thee Peace in thy Borders, and in the midſt of thy Enemies; uniting the hearts of the Fa<g ref="char:EOLhyphen"/>thers; uniting the hearts of the Rulers to the People, and of the People to their Rulers; uniting the hearts of Superiors to Inferiors, and of Inferiors to Superiors;
+<pb n="13" facs="tcp:118529:7"/>uniting all ſocieties, and all degrees, both high and low, in one heart and in one mind, to wiſh, deſire and endeavor the good, the welfare and right of each other; not as parties in partiality and hypocriſie, but in righ<g ref="char:EOLhyphen"/>teouſneſs and in love, in ſubmiſſion and ſubjection to the good Law of the Lord, teaching all men to deny Ungodlineſs, Ambition, Covetouſneſs, Envy, Wrath, and worldly luſts; and to behave themſelves obedi<g ref="char:EOLhyphen"/>ently, peaceably, lowly, and righteouſly in this preſent evil world. Thus the bleſſed day of Reſtoration or Re<g ref="char:EOLhyphen"/>demption ſhall be accompliſhed, and the Creation of God, which groan under mans oppreſſion, be delivered, and the joyful time foretold by the holy Prophets fulfilled, That the Lyon ſhal lie down with the Lamb, and the Leopard with the Kid, and the young Lyon and the Fatling together, and a Child ſhall lead them, &amp;c. and the Lord God Everlaſting ſhall be One, and his Laws, Statutes and Ordinances obſerved, in a holy and a righteous life, be one, in one heart and in one mind, by all the Lovers of Truth and Righteouſneſs through<g ref="char:EOLhyphen"/>out the Land. Haſten, O Lord, haſten to accompliſh this thy work, and let thy power and long-ſuffering once overcome the pride of man, that would reſiſt thee, that we the Inhabitants of this Land in this our generation may be the glory and the rejoycing of ſuc<g ref="char:EOLhyphen"/>ceeding Ages, that they in us were ordained and creat<g ref="char:EOLhyphen"/>ed to ſee thy Righteouſneſs flouriſh and eſtabliſhed upon the Earth, to thy praiſe and honour among all Nations, O thou Creator and Preſerver of Men; ſo ſhall we not reſiſt in our deeds that which Chriſt hath taught, and which with our lips we have prayed, for
+<pb n="14" facs="tcp:118529:8"/>ſaying, <hi>Thy Kingdom come, thy Will be done in Earth as it is in Heaven;</hi> for the Kingdoms, the Power, the Glo<g ref="char:EOLhyphen"/>ry and Dominions thereof are thine, thou only of right O Lord art worthy to reign henceforth and for ever in the hearts of men.</p>
+            <trailer>Amen, Hallelujah, Amen.</trailer>
+         </div>
+         <div type="order">
+            <p>Ordered, That the pecuniary profit made by the Im<g ref="char:EOLhyphen"/>preſſion of this Manuſcript, bearing this ſuperſcrip<g ref="char:EOLhyphen"/>tion <hi>[The Companions of a good Conſcience]</hi> be diſtri<g ref="char:EOLhyphen"/>buted to the relief of diſtreſſed people; and that the propriety hereof be regiſtred, entered, and amplified in all good Conſciences, as becometh the Rule of di<g ref="char:EOLhyphen"/>vine Order, for a Pattern and a Memorial to future Generations.</p>
+            <p>Praiſe ye the Lord God omnipotent, O ye Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, both high and low; O praiſe him in works of Righteouſneſs, and magnifie him ☞ in deeds of Mercy, Peace, and Love: Be ye ſilent before him, O ye Hypocrites, that draw neer with your lips only, for your prayers and your praiſes are an abomination in his ſight. Praiſe ye him, O all ye his Works, for his Providence is continual<g ref="char:EOLhyphen"/>ly over you. O let every thing that hath breath in its kind yield up its life to the praiſe of the great Name of the moſt High; for in him and through him, by him and for him, all things are and were created; to him alone belongeth Honor, Praiſe and Glory from all his Creatures. <hi>Amen, Amen. Hallelujah, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118529:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
